@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/carlvlewis/ndoch17.png?label=ready&title=Ready)](https://waffle.io/carlvlewis/ndoch17?utm_source=badge)
 ## Waffle.io Hackshop
 
 [![Stories Ready to Work On](https://badge.waffle.io/carlvlewis/ndoch17.svg?label=ready&title=Cards%20Ready%20To%20Work%20On)](https://waffle.io/carlvlewis/ndoch17)
