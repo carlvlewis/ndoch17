@@ -1,4 +1,4 @@
-## Hackathon Planning Hub
+# Hackathon Planning Hub
 
 [![Stories Ready to Work On](https://badge.waffle.io/carlvlewis/ndoch17.svg?label=ready&title=Cards%20Ready%20To%20Work%20On)](https://waffle.io/carlvlewis/ndoch17)
 
